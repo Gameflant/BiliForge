@@ -12,6 +12,5 @@
 *.aab
 
 # 签名密钥（绝不提交）
-keystore/
 keystore.properties
 
