@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 圆环（外圆 + 内圆，evenOdd 挖空） -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M12,2 C17.5228,2 22,6.4772 22,12 C22,17.5228 17.5228,22 12,22 C6.4772,22 2,17.5228 2,12 C2,6.4772 6.4772,2 12,2 Z M12,4 C7.5817,4 4,7.5817 4,12 C4,16.4183 7.5817,20 12,20 C16.4183,20 20,16.4183 20,12 C20,7.5817 16.4183,4 12,4 Z" />
+    <!-- 粗勾 -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M10.2,16.6 L6.4,12.8 L7.6,11.6 L10.2,14.2 L16.4,8.0 L17.6,9.2 Z" />
+</vector>
