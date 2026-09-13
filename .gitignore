@@ -14,3 +14,6 @@
 # 签名密钥（绝不提交）
 keystore.properties
 
+
+# keystore/ 目录不入库（密钥仅本地存放）
+keystore/
